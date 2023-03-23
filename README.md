@@ -3,7 +3,12 @@
 Second Mini Project(Computer Vision)
 <br>
 <br>
-
+목록 | 설명
+------------|--------------------
+[AgeModel.ipynb](https://github.com/Yeons2013/Age_Gender_hair_Classification/blob/master/AgeModel.ipynb) | 연령대 분류 모델
+[GenderModel.ipynb](https://github.com/Yeons2013/Age_Gender_hair_Classification/blob/master/GenderModel.ipynb) | 성별 분류 모델
+[HairModel(Augmentation).ipynb](https://github.com/Yeons2013/Age_Gender_hair_Classification/blob/master/HairModel(Augmentation).ipynb) | 헤어 분류 모델(증강O)
+[HairStyleModel.ipynb](https://github.com/Yeons2013/Age_Gender_hair_Classification/blob/master/HairStyleModel.ipynb) | 헤어 분류 모델(증강X)
 
 ---
 
@@ -18,6 +23,24 @@ Second Mini Project(Computer Vision)
 ---
 
 <br>
+
+## 프로젝트 팀 구성 및 역할
+<br>
+
+팀 원 | 담당업무|
+----  |------|
+강동호 | 기획, 전처리, 모델링, 시각화
+이정아 | 기획, 전처리, 모델링, 시각화
+박혜정 | 기획, 전처리, 모델링, 팀 노션 관리
+정가영 | 기획, 전처리, 모델링, 시각화
+최현호 | 전처리, 모델링, 디자인, 발표 
+황성연 | 기획, 전처리, 모델링, 시각화
+
+<br>
+<br>
+
+
+---
 
 
 ## 사용 데이터
